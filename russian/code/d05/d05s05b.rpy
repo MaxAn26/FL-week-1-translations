@@ -454,7 +454,7 @@ translate russian d05s05_screwyourself_79549b86:
 translate russian d05s05_screwyourself_3e8d8624:
 
     # mh "So, how about this: You co-sign the documents. She lives in the apartment for the Summer, and you move in at the beginning of the semester."
-    mh "Итак, как насчет этого: вы вместе подписываете документы. Она живет в этой квартире все лето, а ты переезжаешь туда в начале семестра."
+    mh "Итак, как насчет этого: вы вместе подписываете документы. Она живет в этой квартире все лето, а ты переезжаешь сюда в начале семестра."
 
 # game/code/d05/d05s05b.rpy:164
 translate russian d05s05_screwyourself_f2e8b328:

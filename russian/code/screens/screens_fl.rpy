@@ -168,5 +168,5 @@ translate russian strings:
 
     # game/code/screens/screens_fl.rpy:441
     old "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
-    new "If you decide to continue, your saves might not work between different weeks. You won't be notified again. Are you sure?"
+    new "Если вы решите продолжить, ваши сохранения могут не работать между разными неделями. Вы не будете получать уведомления снова. Вы уверены?"
 
